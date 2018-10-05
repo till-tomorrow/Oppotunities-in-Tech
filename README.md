@@ -12,6 +12,8 @@ Following is the list of available opportunities in tech:
 
 5. [Visa Sponsored Jobs, listed on Stackoverflow](https://stackoverflow.com/jobs?t=true)
 
+6. [AWS Educate](https://aws.amazon.com/en/education/awseducate/)
+
 ### CONTRIBUTE
 
 Feel free to open an issue (or send a Pull Request) for populating the list. Any form contribution(s) is/are highly appreciated!
